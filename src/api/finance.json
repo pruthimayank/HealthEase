@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Critical Illness Plan",
+    "age_limit": "Under 65",
+    "pre_existing_conditions": "N/A",
+    "description": "itical illness insurance offers coverage against several types of life-threatening ailments and lifestyle diseases, such as cancer, stroke, and kidney failure.",
+    "price": "15203",
+    "Room_rent_limit": "No-limit",
+    "claim": "89",
+    "link": "https://www.maxlifeinsurance.com/term-insurance-plans/critical-illness"
+  },
+  {
+    "name": "Cancer Insurance",
+    "age_limit": "All",
+    "pre_existing_conditions": "N/A",
+    "description": "Cancer insurance is a type of insurance designed to manage the costs associated with cancer. This policy helps mitigate the costs related to getting quality treatment for cancer.",
+    "price": "3245",
+    "Room_rent_limit": "No-limit",
+    "claim": "78",
+    "link": "https://www.maxlifeinsurance.com/health-insurance-plans/cancer-insurance-plan"
+  },
+  {
+    "name": "Personal Accident Insurance",
+    "age_limit": "40s",
+    "pre_existing_conditions": "N/A",
+    "description": "Personal accident insurance is a policy that can provide you with financial protection against uncertainties such as accidental death, injuries, and partial or total disability resulting from an accident.",
+    "price": "4321",
+    "Room_rent_limit": "No-limit",
+    "claim": "83",
+    "link": "https://www.maxlifeinsurance.com/term-insurance-plans/personal-accident-insurance"
+  },
+  {
+    "name": "Health Insurance Plans",
+    "age_limit": "50s",
+    "pre_existing_conditions": "N/A",
+    "description": "Health insurance is meant to provide financial cover against hospitalization costs, prescription fees, medical bills, etc.",
+    "price": "2314",
+    "Room_rent_limit": "No-limit",
+    "claim": "78",
+    "link": "https://www.maxlifeinsurance.com/health-insurance-plans"
+  },
+  {
+    "name": "Long-Term Care Insurance",
+    "age_limit": "60s",
+    "pre_existing_conditions": "N/A",
+    "description": "Provides coverage for the costs of care in the event of a chronic illness or disability.",
+    "price": "8099",
+    "Room_rent_limit": "No-limit",
+    "claim": "81"
+  },
+  {
+    "name": "Family Health Insurance Plan",
+    "age_limit": "All Ages",
+    "pre_existing_conditions": "N/A",
+    "description": "Covers all members of a family and provides comprehensive coverage at a lower cost than individual plans.",
+    "price": "9277",
+    "Room_rent_limit": "No-limit",
+    "claim": "86",
+    "link": "https://www.careinsurance.com/health-insurance/family-health-insurance"
+  },
+  {
+    "name": "Heart Insurance plan",
+    "age_limit": "Retirees",
+    "pre_existing_conditions": "N/A",
+    "description": "Offers additional benefits like dental and vision coverage, as well as prescription drug coverage.",
+    "price": "2334",
+    "Room_rent_limit": "No-limit",
+    "claim": "89",
+    "link": "https://www.careinsurance.com/product/care-heart?agentId=20024747&utm_source=google&utm_medium=cpc&utm_campaign_id=11806780756&utm_keyword=family%20health%20insurance&utm_content=CH&s_kwcid=AL!10397!3!594059147038!e!!g!!family%20health%20insurance&utm_term=11806780756&utm_adgroup=140965531372&gad=1&gclid=Cj0KCQjw0tKiBhC6ARIsAAOXutlEQ6CLtrEXsbA80dUTiZ_fgit5qEcNev07UpbSPQglLwiRDRK79BgaAnwYEALw_wcB"
+  },
+  {
+    "name": "Maternity Health Insurance",
+    "age_limit": "All Ages",
+    "pre_existing_conditions": "Covered",
+    "description": "Insurance for maternity offers a safety net for expecting mothers and their newborn babies that covers delivery-related expenses during the most joyous phase of life.",
+    "price": "2345",
+    "Room_rent_limit": "No-limit",
+    "claim": "79",
+    "link": "https://www.careinsurance.com/health-insurance/maternity-health-insurance-plan"
+  },
+  {
+    "name": "Senior citizen health insurance",
+    "age_limit": "50",
+    "pre_existing_conditions": "N/A",
+    "description": "Senior Citizen Health Insurance makes it easier for old age people to pay for medical expenses arising due to treatment. It could be a thoughtful present to your ageing parents as it provides a safety cushion while they age.",
+    "price": "2316",
+    "Room_rent_limit": "No-limit",
+    "claim": "76",
+    "link": "https://www.careinsurance.com/health-insurance/health-insurance-for-senior-citizens"
+  },
+  {
+    "name": "Diabetic Patient Health Insurance",
+    "age_limit": "All Ages",
+    "pre_existing_conditions": "N/A",
+    "description": "Offers tax advantages and helps cover healthcare costs for those who are self-employed.",
+    "price": "3457",
+    "Room_rent_limit": "No-limit",
+    "claim": "72",
+    "link": "https://www.careinsurance.com/health-insurance/health-insurance-for-diabetes"
+  }
+]

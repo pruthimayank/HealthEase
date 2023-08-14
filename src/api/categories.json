@@ -1,0 +1,1250 @@
+[
+  {
+    "name": "Airborne",
+    "diseases": [
+      {
+        "name": "COVID-19",
+        "category": "Airborne",
+        "description": "COVID-19 is an infectious respiratory illness caused by the SARS-CoV-2 virus. It was first identified in Wuhan, China in December 2019 and has since become a global pandemic.",
+        "signs": "Fever, cough, and difficulty breathing",
+        "symptoms": "Fatigue, muscle aches, loss of taste or smell, sore throat, congestion or runny nose, nausea or vomiting, diarrhea",
+        "prevention": "Wear a mask, practice social distancing, wash your hands frequently, avoid touching your face, and get vaccinated",
+        "medications": "Antiviral medications, corticosteroids, and supportive care"
+      },
+      {
+        "name": "Influenza",
+        "category": "Airborne",
+        "description": "Influenza, commonly known as the flu, is an infectious respiratory illness caused by the influenza virus. It typically occurs in seasonal outbreaks and can cause severe illness in some people.",
+        "signs": "Fever, cough, sore throat, and body aches",
+        "symptoms": "Fatigue, chills, headache, congestion or runny nose",
+        "prevention": "Wash your hands frequently, avoid touching your face, cover your mouth and nose when coughing or sneezing, and get vaccinated",
+        "medications": "Antiviral medications and supportive care"
+      },
+      {
+        "name": "Tuberculosis",
+        "category": "Airborne",
+        "description": "Tuberculosis (TB) is a bacterial infection caused by the bacterium Mycobacterium tuberculosis. It primarily affects the lungs, but can also affect other parts of the body.",
+        "signs": "Persistent cough, chest pain, and coughing up blood",
+        "symptoms": "Fatigue, fever, night sweats, and loss of appetite",
+        "prevention": "Get vaccinated, avoid close contact with people who have TB, and practice good respiratory hygiene",
+        "medications": "Antibiotics"
+      },
+      {
+        "name": "Measles",
+        "category": "Airborne",
+        "description": "Measles is a highly contagious viral infection that can lead to serious complications. It is transmitted through respiratory secretions and typically occurs in childhood.",
+        "signs": "Fever, cough, and runny nose",
+        "symptoms": "Red, blotchy rash on the skin, white spots in the mouth, and sensitivity to light",
+        "prevention": "Get vaccinated, practice good respiratory hygiene, and avoid close contact with people who are sick",
+        "medications": "None, supportive care"
+      },
+      {
+        "name": "Chickenpox",
+        "category": "Airborne",
+        "description": "Chickenpox is a highly contagious viral infection caused by the varicella-zoster virus. It typically occurs in childhood and causes a blister-like rash on the skin.",
+        "signs": "Fever, headache, and itchy rash on the skin",
+        "symptoms": "Loss of appetite, fatigue, and feeling generally unwell",
+        "prevention": "Get vaccinated and avoid close contact with people who have chickenpox",
+        "medications": "Antiviral medications and supportive care"
+      },
+      {
+        "name": "SARS",
+        "category": "Airborne",
+        "description": "Severe acute respiratory syndrome (SARS) is a viral respiratory illness caused by the SARS-associated coronavirus (SARS-CoV). It was first identified in Asia in 2003 and spread to several countries before being contained.",
+        "signs": "Fever, cough, and difficulty breathing",
+        "symptoms": "Muscle aches, headache, and malaise",
+        "prevention": "Practice good respiratory hygiene, avoid close contact with people who have SARS, and wear protective clothing if necessary",
+        "medications": "Antiviral medications and supportive care"
+      },
+      {
+        "name": "MERS",
+        "category": "Airborne",
+        "description": "Middle East respiratory syndrome (MERS) is a viral respiratory illness caused by the MERS coronavirus (MERS-CoV). It was first identified in Saudi Arabia in 2012 and has since spread to several other countries.",
+        "signs": "Fever, cough, and difficulty breathing",
+        "symptoms": "Diarrhea, nausea and vomiting, and kidney failure",
+        "prevention": "Practice good respiratory hygiene, avoid close contact with camels, and avoid close contact with people who have MERS",
+        "medications": "Antiviral medications and supportive care"
+      },
+      {
+        "name": "Diphtheria",
+        "category": "Airborne",
+        "description": "Diphtheria is a bacterial infection caused by the bacterium Corynebacterium diphtheriae. It primarily affects the respiratory tract, but can also affect other parts of the body.",
+        "signs": "Sore throat, fever, and swollen glands",
+        "symptoms": "Difficulty breathing, skin lesions, and paralysis",
+        "prevention": "Get vaccinated and practice good respiratory hygiene",
+        "medications": "Antibiotics and antitoxin"
+      },
+      {
+        "name": "Legionnaires' disease",
+        "category": "Airborne",
+        "description": "Legionnaires' disease is a severe form of pneumonia caused by the bacterium Legionella pneumophila. It can be acquired by inhaling contaminated water droplets or air.",
+        "signs": "Fever, chills, and cough",
+        "symptoms": "Muscle aches, headache, and fatigue",
+        "prevention": "Maintain water systems to prevent Legionella growth, avoid smoking, and practice good respiratory hygiene",
+        "medications": "Antibiotics"
+      }
+    ]
+  },
+  {
+    "name": "Waterborne",
+    "diseases": [
+      {
+        "name": "Cholera",
+        "category": "Waterborne",
+        "description": "Cholera is an acute diarrheal disease caused by the Vibrio cholerae bacterium, which can be found in contaminated water and food.",
+        "signs": "Watery diarrhea, vomiting, dehydration",
+        "symptoms": "Abdominal cramps, nausea, fever",
+        "preventions": "Drinking clean and safe water, washing hands frequently, practicing good hygiene and sanitation, avoiding contaminated food and water",
+        "medications": "Antibiotics, rehydration therapy"
+      },
+      {
+        "name": "Typhoid fever",
+        "category": "Waterborne",
+        "description": "Typhoid fever is a bacterial infection caused by the Salmonella typhi bacterium, which can be found in contaminated food and water.",
+        "signs": "High fever, weakness, abdominal pain, headache",
+        "symptoms": "Diarrhea, constipation, rose-colored spots on the chest",
+        "preventions": "Drinking clean and safe water, washing hands frequently, practicing good hygiene and sanitation, avoiding contaminated food and water, getting vaccinated",
+        "medications": "Antibiotics"
+      },
+      {
+        "name": "Cryptosporidiosis",
+        "category": "Waterborne",
+        "description": "Cryptosporidiosis is a parasitic infection caused by the Cryptosporidium parasite, which can be found in contaminated water and food.",
+        "signs": "Watery diarrhea, stomach cramps, dehydration",
+        "symptoms": "Weight loss, fever, nausea",
+        "preventions": "Drinking clean and safe water, washing hands frequently, practicing good hygiene and sanitation, avoiding contaminated food and water",
+        "medications": "Antiparasitic drugs, rehydration therapy"
+      },
+      {
+        "name": "Giardiasis",
+        "category": "Waterborne",
+        "description": "Giardiasis is a parasitic infection caused by the Giardia parasite, which can be found in contaminated water and food.",
+        "signs": "Watery diarrhea, abdominal pain, bloating",
+        "symptoms": "Nausea, vomiting, weight loss",
+        "preventions": "Drinking clean and safe water, washing hands frequently, practicing good hygiene and sanitation, avoiding contaminated food and water",
+        "medications": "Antiparasitic drugs"
+      },
+      {
+        "name": "Hepatitis A",
+        "category": "Waterborne",
+        "description": "Hepatitis A is a viral infection that affects the liver and is caused by the hepatitis A virus, which can be found in contaminated food and water.",
+        "signs": "Fatigue, loss of appetite, nausea",
+        "symptoms": "Jaundice, dark urine, light-colored stools",
+        "preventions": "Getting vaccinated, washing hands frequently, practicing good hygiene and sanitation, avoiding contaminated food and water",
+        "medications": "No specific treatment, but rest and adequate nutrition are recommended"
+      },
+      {
+        "name": "Leptospirosis",
+        "category": "Waterborne",
+        "description": "Leptospirosis is a bacterial infection caused by the Leptospira bacterium, which can be found in contaminated water and soil.",
+        "signs": "High fever, muscle pain, headache",
+        "symptoms": "Vomiting, diarrhea, rash",
+        "preventions": "Wearing protective clothing when in contact with contaminated water or soil, practicing good hygiene and sanitation, avoiding contact with infected animals",
+        "medications": "Antibiotics"
+      },
+      {
+        "name": "Shigellosis",
+        "category": "Waterborne",
+        "description": "Shigellosis is a bacterial infection caused by the Shigella bacterium, which can be found in contaminated water and food.",
+        "signs": "Bloody diarrhea, stomach cramps, fever",
+        "symptoms": "Nausea, vomiting, dehydration",
+        "preventions": "Drinking clean and safe water, washing hands frequently, practicing good hygiene and sanitation, avoiding contaminated food and water",
+        "medications": "Antibiotics, rehydration therapy"
+      },
+      {
+        "name": "E. coli infection",
+        "category": "Waterborne",
+        "description": "E. coli infection is a bacterial infection caused by the Escherichia coli bacterium, which can be found in contaminated water, food, and soil.",
+        "signs": "Bloody diarrhea, stomach cramps, fever",
+        "symptoms": "Nausea, vomiting, dehydration",
+        "preventions": "Drinking clean and safe water, washing hands frequently, practicing good hygiene and sanitation, avoiding contaminated food and water",
+        "medications": "Antibiotics, rehydration therapy"
+      },
+      {
+        "name": "Norovirus infection",
+        "category": "Waterborne",
+        "description": "Norovirus infection is a viral infection that affects the stomach and intestines and is highly contagious. It can be transmitted through contaminated water, food, or surfaces.",
+        "signs": "Nausea, vomiting, diarrhea",
+        "symptoms": "Stomach cramps, headache, fever",
+        "preventions": "Washing hands frequently, practicing good hygiene and sanitation, avoiding contaminated food and water",
+        "medications": "No specific treatment, but rest and adequate hydration are recommended"
+      },
+      {
+        "name": "Amoebiasis",
+        "category": "Waterborne",
+        "description": "Amoebiasis is a parasitic infection caused by the Entamoeba histolytica parasite, which can be found in contaminated water and food.",
+        "signs": "Bloody diarrhea, stomach cramps, fever",
+        "symptoms": "Nausea, vomiting, weight loss",
+        "preventions": "Drinking clean and safe water, washing hands frequently, practicing good hygiene and sanitation, avoiding contaminated food and water",
+        "medications": "Antiparasitic drugs"
+      }
+    ]
+  },
+  {
+    "name": "Environmental",
+    "diseases": [
+      {
+        "name": "Asthma",
+        "category": "Environmental",
+        "description": "A respiratory condition that is exacerbated by air pollution and poor indoor air quality.",
+        "signs": "Wheezing, coughing, shortness of breath, chest tightness.",
+        "symptoms": "Difficulty breathing, tightness in the chest, coughing, wheezing, shortness of breath.",
+        "preventions": "Avoid exposure to air pollution and irritants, maintain good indoor air quality, take prescribed medication as directed.",
+        "medications": "Bronchodilators, inhaled corticosteroids, leukotriene modifiers, immunomodulators."
+      },
+      {
+        "name": "Lead Poisoning",
+        "category": "Environmental",
+        "description": "Exposure to lead in contaminated soil, water, or old paint can cause developmental delays and other health problems.",
+        "signs": "Fatigue, irritability, abdominal pain, headaches.",
+        "symptoms": "Developmental delays, learning difficulties, behavioral problems, anemia, kidney damage.",
+        "preventions": "Avoid exposure to lead, test your home for lead, use lead-safe practices when renovating or remodeling.",
+        "medications": "Chelation therapy, which removes lead from the body."
+      },
+      {
+        "name": "Asbestosis",
+        "category": "Environmental",
+        "description": "A lung disease caused by inhaling asbestos fibers, which are commonly found in old insulation and building materials.",
+        "signs": "Shortness of breath, dry cough, chest pain.",
+        "symptoms": "Shortness of breath, persistent cough, chest pain, clubbing of the fingers.",
+        "preventions": "Avoid exposure to asbestos, use protective gear when working with asbestos, hire professionals for asbestos removal.",
+        "medications": "There is no cure for asbestosis, but treatments can help manage symptoms."
+      },
+      {
+        "name": "Mesothelioma",
+        "category": "Environmental",
+        "description": "A rare and deadly form of cancer also caused by asbestos exposure.",
+        "signs": "Shortness of breath, chest pain, weight loss.",
+        "symptoms": "Shortness of breath, chest pain, persistent cough, fatigue, weight loss.",
+        "preventions": "Avoid exposure to asbestos, use protective gear when working with asbestos, hire professionals for asbestos removal.",
+        "medications": "There is no cure for mesothelioma, but treatments can help manage symptoms and slow the progression of the disease."
+      },
+      {
+        "name": "Mercury Poisoning",
+        "category": "Environmental",
+        "description": "Exposure to mercury through contaminated fish, dental fillings, or industrial sources can cause neurological damage and other health issues.",
+        "signs": "Tremors, irritability, memory loss.",
+        "symptoms": "Tremors, irritability, memory loss, insomnia, headaches, gastrointestinal problems.",
+        "preventions": "Avoid exposure to mercury, limit consumption of fish with high mercury levels, use mercury-free dental fillings.",
+        "medications": "Chelation therapy, which removes mercury from the body."
+      },
+      {
+        "name": "Black Lung Disease",
+        "category": "Environmental",
+        "description": "A lung disease caused by inhaling coal dust, which is a common occupational hazard for coal miners.",
+        "signs": "Shortness of breath, chronic cough.",
+        "symptoms": "Shortness of breath, chronic cough, chest pain, fatigue.",
+        "preventions": "Use protective gear when working in coal mines, follow recommended safety procedures",
+        "medications": "There is no cure for black lung disease, but treatments can help manage symptoms and slow the progression of the disease."
+      },
+      {
+        "name": "Pesticide Poisoning",
+        "category": "Environmental",
+        "description": "Exposure to pesticides through direct contact, inhalation, or ingestion can cause a range of health problems, including cancer and neurological damage.",
+        "signs": "Headaches, nausea, dizziness.",
+        "symptoms": "Headaches, nausea, dizziness, blurred vision, weakness, tremors.",
+        "preventions": "Avoid exposure to pesticides, use protective gear when working with pesticides, wash fruits and vegetables before eating.",
+        "medications": "Treatment depends on the type and severity of the poisoning, but may include medications to manage symptoms and remove the pesticide from the body."
+      },
+      {
+        "name": "Radiation Sickness",
+        "category": "Environmental",
+        "description": "Exposure to high levels of ionizing radiation, such as in a nuclear accident, can cause radiation sickness and increase the risk of cancer and other health problems.",
+        "signs": "Nausea, vomiting, diarrhea.",
+        "symptoms": "Nausea, vomiting, diarrhea, fatigue, fever, hair loss, increased risk of cancer.",
+        "preventions": "Avoid exposure to ionizing radiation, use protective gear when working with radioactive materials, follow safety procedures when working with radiation.",
+        "medications": "Treatment may include medications to manage symptoms, blood transfusions, and bone marrow transplants."
+      },
+      {
+        "name": "Heat Stroke",
+        "category": "Environmental",
+        "description": "Prolonged exposure to high temperatures and humidity, which can be exacerbated by climate change, can cause heat stroke, a potentially life-threatening condition.",
+        "signs": "High body temperature, confusion, rapid heartbeat.",
+        "symptoms": "High body temperature, confusion, rapid heartbeat, headaches, nausea, seizures.",
+        "preventions": "Avoid prolonged exposure to high temperatures, stay hydrated, wear lightweight and light-colored clothing, seek cool shelter when necessary.",
+        "medications": "Treatment may include cooling measures, such as cooling blankets or ice packs, and medication to manage symptoms."
+      },
+      {
+        "name": "Skin Cancer",
+        "category": "Environmental",
+        "description": "Exposure to ultraviolet radiation from the sun and other sources, such as tanning beds, can increase the risk of skin cancer.",
+        "signs": "Changes in skin color or texture, new or changing moles.",
+        "symptoms": "Changes in skin color or texture, new or changing moles, open sores that don't heal, itching or bleeding on the skin.",
+        "preventions": "Avoid prolonged exposure to the sun, use sunscreen and protective clothing, avoid tanning beds.",
+        "medications": "Treatment depends on the type and severity of the skin cancer, but may include surgery, radiation therapy, and chemotherapy."
+      }
+    ]
+  },
+  {
+    "name": "Nutritional",
+    "diseases": [
+      {
+        "name": "Anemia",
+        "category": "Nutritional",
+        "description": "Anemia is a condition that occurs when the body doesn't produce enough red blood cells or when the red blood cells don't function properly.",
+        "signs": "Fatigue, weakness, pale skin, shortness of breath, headache.",
+        "symptoms": "Fatigue, weakness, pale skin, shortness of breath, headache, dizziness, cold hands and feet.",
+        "preventions": "Eat a diet rich in iron and other nutrients, take iron supplements if necessary.",
+        "medications": "Treatment may include iron supplements and vitamin B12 supplements."
+      },
+      {
+        "name": "Rickets",
+        "category": "Nutritional",
+        "description": "Rickets is a condition that occurs when there is a deficiency of vitamin D, calcium, or phosphorus, which leads to weak bones and skeletal deformities.",
+        "signs": "Weak and soft bones, bowlegs, delayed growth.",
+        "symptoms": "Weak and soft bones, bowlegs, delayed growth, muscle weakness and pain.",
+        "preventions": "Get enough vitamin D, calcium, and phosphorus through a healthy diet or supplements.",
+        "medications": "Treatment may include vitamin D and calcium supplements."
+      },
+      {
+        "name": "Osteoporosis",
+        "category": "Nutritional",
+        "description": "Osteoporosis is a condition that occurs when the bones become weak and brittle, making them more prone to fractures.",
+        "signs": "Fractures, especially in the hip, spine, and wrist.",
+        "symptoms": "Fractures, especially in the hip, spine, and wrist, back pain, loss of height over time.",
+        "preventions": "Get enough calcium and vitamin D, exercise regularly, avoid smoking and excessive alcohol consumption.",
+        "medications": "Treatment may include calcium and vitamin D supplements, as well as medications that slow down bone loss or increase bone density."
+      },
+      {
+        "name": "Scurvy",
+        "category": "Nutritional",
+        "description": "Scurvy is a condition that occurs when there is a severe deficiency of vitamin C, which leads to weakness, anemia, and skin problems.",
+        "signs": "Weakness, anemia, swollen and bleeding gums, skin problems.",
+        "symptoms": "Weakness, anemia, swollen and bleeding gums, skin problems, joint pain, shortness of breath.",
+        "preventions": "Eat a diet rich in vitamin C, including fruits and vegetables.",
+        "medications": "Treatment may include vitamin C supplements and a diet rich in vitamin C."
+      },
+      {
+        "name": "Night blindness",
+        "category": "Nutritional",
+        "description": "Night blindness is a condition that occurs when there is a deficiency of vitamin A, which leads to poor vision in low light conditions.",
+        "signs": "Difficulty seeing in low light conditions.",
+        "symptoms": "Difficulty seeing in low light conditions, dry eyes, eye infections.",
+        "preventions": "Eat a diet rich in vitamin A, including liver, carrots, sweet potatoes, and leafy green vegetables.",
+        "medications": "Treatment may include vitamin A supplements."
+      },
+      {
+        "name": "Kwashiorkor",
+        "category": "Nutritional",
+        "description": "Kwashiorkor is a severe form of malnutrition that occurs when there is a deficiency of protein in the diet, which leads to stunted growth, muscle wasting, and other serious health problems.",
+        "signs": "Edema (swelling) in the abdomen, face, and extremities, thinning hair, flaky skin.",
+        "symptoms": "Edema (swelling) in the abdomen, face, and extremities, thinning hair, flaky skin, stunted growth, muscle wasting, irritability.",
+        "preventions": "Eat a diet rich in protein, including meat, fish, eggs, and beans.",
+        "medications": "Treatment may include a diet rich in protein, as well as other nutrients that may be deficient."
+      },
+      {
+        "name": "Pellagra",
+        "category": "Nutritional",
+        "description": "Pellagra is a condition that occurs when there is a deficiency of niacin (vitamin B3) in the diet, which leads to skin problems, digestive issues, and mental confusion.",
+        "signs": "Skin rash, diarrhea, dementia.",
+        "symptoms": "Skin rash, diarrhea, dementia, confusion, depression, irritability.",
+        "preventions": "Eat a diet rich in niacin, including meat, fish, and whole grains.",
+        "medications": "Treatment may include niacin supplements and a diet rich in niacin."
+      },
+      {
+        "name": "Beriberi",
+        "category": "Nutritional",
+        "description": "Beriberi is a condition that occurs when there is a deficiency of thiamine (vitamin B1) in the diet, which leads to nerve damage, muscle weakness, and other serious health problems.",
+        "signs": "Weakness, fatigue, tingling and numbness in the hands and feet.",
+        "symptoms": "Weakness, fatigue, tingling and numbness in the hands and feet, muscle cramps, difficulty walking.",
+        "preventions": "Eat a diet rich in thiamine, including whole grains, nuts, and meat.",
+        "medications": "Treatment may include thiamine supplements and a diet rich in thiamine."
+      },
+      {
+        "name": "Obesity",
+        "category": "Nutritional",
+        "description": "Obesity is a condition that occurs when a person has an excessive amount of body fat, which can lead to a range of health problems, including heart disease, diabetes, and cancer.",
+        "signs": "High body mass index (BMI), excessive body fat.",
+        "symptoms": "High body mass index (BMI), excessive body fat, difficulty breathing, joint pain.",
+        "preventions": "Maintain a healthy diet and exercise regularly to maintain a healthy weight.",
+        "medications": "Treatment may include medications that reduce appetite or block fat absorption, as well as lifestyle changes such as diet and exercise."
+      }
+    ]
+  },
+  {
+    "name": "Lifestyle",
+    "diseases": [
+      {
+        "name": "Obesity",
+        "category": "Lifestyle",
+        "description": "Obesity is a medical condition characterized by the accumulation of excessive body fat that can lead to negative health outcomes, such as diabetes, heart disease, and cancer.",
+        "signs": "Increased body weight, body mass index (BMI) of 30 or greater.",
+        "symptoms": "Increased body weight, fatigue, difficulty breathing, joint pain, sleep apnea.",
+        "preventions": "Maintain a healthy diet and engage in regular physical activity, avoid processed and high-fat foods, limit sugar and alcohol intake.",
+        "medications": "Treatment may include medications that help with weight loss, such as appetite suppressants, and surgery in severe cases."
+      },
+      {
+        "name": "Type 2 Diabetes",
+        "category": "Lifestyle",
+        "description": "Type 2 diabetes is a chronic metabolic disorder characterized by high blood sugar levels that can lead to serious health complications, such as heart disease, kidney disease, and blindness.",
+        "signs": "Increased thirst, frequent urination, blurred vision.",
+        "symptoms": "Increased thirst, frequent urination, blurred vision, fatigue, slow wound healing.",
+        "preventions": "Maintain a healthy diet and engage in regular physical activity, monitor blood sugar levels, maintain a healthy weight.",
+        "medications": "Treatment may include medications that lower blood sugar levels, such as insulin, and lifestyle changes to manage the condition."
+      },
+      {
+        "name": "Cardiovascular Diseases (CVDs)",
+        "category": "Lifestyle",
+        "description": "CVDs are a group of disorders that affect the heart and blood vessels, such as coronary artery disease, heart failure, and stroke.",
+        "signs": "Chest pain or discomfort, shortness of breath, irregular heartbeat.",
+        "symptoms": "Chest pain or discomfort, shortness of breath, irregular heartbeat, fatigue, dizziness.",
+        "preventions": "Maintain a healthy diet and engage in regular physical activity, avoid smoking and excessive alcohol intake, manage stress levels.",
+        "medications": "Treatment may include medications to manage high blood pressure and cholesterol levels, blood thinners, and procedures such as angioplasty or bypass surgery."
+      },
+      {
+        "name": "Hypertension (High Blood Pressure)",
+        "category": "Lifestyle",
+        "description": "Hypertension is a condition in which the blood pressure in the arteries is consistently elevated and can lead to health complications such as heart disease, stroke, and kidney failure.",
+        "signs": "High blood pressure readings, headaches, dizziness.",
+        "symptoms": "High blood pressure readings, headaches, dizziness, fatigue, chest pain.",
+        "preventions": "Maintain a healthy diet and engage in regular physical activity, limit salt intake, maintain a healthy weight.",
+        "medications": "Treatment may include medications to lower blood pressure, such as diuretics and ACE inhibitors, and lifestyle changes to manage the condition."
+      },
+      {
+        "name": "Osteoporosis",
+        "category": "Lifestyle",
+        "description": "Osteoporosis is a condition characterized by weak, brittle bones that are more susceptible to fractures and breaks.",
+        "signs": "Loss of height, back pain.",
+        "symptoms": "Loss of height, back pain, fractures or breaks with minimal trauma.",
+        "preventions": "Engage in weight-bearing exercise and strength training, maintain a diet rich in calcium and vitamin D, avoid smoking and excessive alcohol intake.",
+        "medications": "Treatment may include medications to slow bone loss and promote bone growth"
+      },
+      {
+        "name": "Cancer",
+        "category": "Lifestyle",
+        "description": "Cancer is a group of diseases characterized by the uncontrolled growth and spread of abnormal cells in the body.",
+        "signs": "Lumps or bumps, changes in skin color, persistent cough or hoarseness.",
+        "symptoms": "Lumps or bumps, changes in skin color, persistent cough or hoarseness, fatigue, unexplained weight loss.",
+        "preventions": "Avoid tobacco and excessive alcohol intake, maintain a healthy diet and engage in regular physical activity, protect skin from sun exposure.",
+        "medications": "Treatment may include chemotherapy, radiation therapy, and surgery."
+      },
+      {
+        "name": "Chronic Obstructive Pulmonary Disease (COPD)",
+        "category": "Lifestyle",
+        "description": "COPD is a group of lung diseases that make it difficult to breathe and can lead to other health complications, such as heart disease and respiratory infections.",
+        "signs": "Chronic cough, shortness of breath, wheezing.",
+        "symptoms": "Chronic cough, shortness of breath, wheezing, fatigue, chest tightness.",
+        "preventions": "Avoid tobacco and air pollution, engage in regular physical activity, maintain a healthy diet.",
+        "medications": "Treatment may include bronchodilators and corticosteroids to improve breathing, and oxygen therapy in severe cases."
+      },
+      {
+        "name": "Alzheimer's Disease and Dementia",
+        "category": "Lifestyle",
+        "description": "Alzheimer's disease and dementia are neurological disorders that affect memory and cognitive function.",
+        "signs": "Memory loss, confusion, difficulty completing familiar tasks.",
+        "symptoms": "Memory loss, confusion, difficulty completing familiar tasks, personality changes, withdrawal from social activities.",
+        "preventions": "Engage in regular physical activity, maintain a healthy diet, stay mentally active, manage chronic health conditions.",
+        "medications": "Treatment may include medications to improve cognitive function and manage behavioral symptoms."
+      },
+      {
+        "name": "Depression and Anxiety Disorders",
+        "category": "Lifestyle",
+        "description": "Depression and anxiety disorders are mental health conditions that can significantly impact a person's daily life.",
+        "signs": "Persistent feelings of sadness or anxiety, difficulty sleeping, loss of interest in activities.",
+        "symptoms": "Persistent feelings of sadness or anxiety, difficulty sleeping, loss of interest in activities, changes in appetite or weight, fatigue.",
+        "preventions": "Engage in regular physical activity, maintain a healthy diet, get enough sleep, manage stress levels.",
+        "medications": "Treatment may include antidepressants and anti-anxiety medications, and therapy to learn coping skills and manage symptoms."
+      },
+      {
+        "name": "Substance Abuse Disorders",
+        "category": "Lifestyle",
+        "description": "Substance abuse disorders are a group of conditions characterized by the misuse of drugs or alcohol.",
+        "signs": "Changes in behavior or mood, withdrawal symptoms.",
+        "symptoms": "Changes in behavior or mood, withdrawal symptoms, cravings, physical health problems.",
+        "preventions": "Avoid the misuse of drugs or alcohol, seek help if you or someone you know is struggling with substance abuse.",
+        "medications": "Treatment may include medications to manage withdrawal symptoms and cravings, and therapy to address underlying issues and learn coping skills."
+      }
+    ]
+  },
+  {
+    "name": "Autoimmune",
+    "diseases": [
+      {
+        "name": "Rheumatoid arthritis",
+        "category": "Autoimmune",
+        "description": "Rheumatoid arthritis is a chronic inflammatory disorder that affects the joints, causing pain, stiffness, and swelling.",
+        "signs": "Joint pain, stiffness, and swelling, fatigue, fever, weight loss.",
+        "symptoms": "Joint pain, stiffness, and swelling, fatigue, fever, weight loss, deformity of joints.",
+        "preventions": "There is no known prevention for rheumatoid arthritis.",
+        "medications": "Treatment may include nonsteroidal anti-inflammatory drugs (NSAIDs), disease-modifying antirheumatic drugs (DMARDs), and biologic agents."
+      },
+      {
+        "name": "Multiple sclerosis",
+        "category": "Autoimmune",
+        "description": "Multiple sclerosis is a chronic autoimmune disorder that affects the central nervous system, causing a range of symptoms including muscle weakness, numbness, and loss of coordination.",
+        "signs": "Muscle weakness, numbness, loss of coordination, blurred vision.",
+        "symptoms": "Muscle weakness, numbness, loss of coordination, blurred vision, fatigue, tremors.",
+        "preventions": "There is no known prevention for multiple sclerosis.",
+        "medications": "Treatment may include disease-modifying drugs, steroids, and medications to manage specific symptoms."
+      },
+      {
+        "name": "Lupus",
+        "category": "Autoimmune",
+        "description": "Lupus is a chronic autoimmune disease that can affect various parts of the body, including the skin, joints, and organs.",
+        "signs": "Fatigue, joint pain and stiffness, rash, fever.",
+        "symptoms": "Fatigue, joint pain and stiffness, rash, fever, hair loss, mouth sores.",
+        "preventions": "There is no known prevention for lupus.",
+        "medications": "Treatment may include nonsteroidal anti-inflammatory drugs (NSAIDs), corticosteroids, antimalarial drugs, and immunosuppressant medications."
+      },
+      {
+        "name": "Psoriasis",
+        "category": "Autoimmune",
+        "description": "Psoriasis is a chronic autoimmune disorder that causes patches of thick, red, scaly skin to develop on the body.",
+        "signs": "Red patches of skin covered with thick, silvery scales, itching or burning sensations.",
+        "symptoms": "Red patches of skin covered with thick, silvery scales, itching or burning sensations, dry skin, cracked skin, joint pain.",
+        "preventions": "There is no known prevention for psoriasis.",
+        "medications": "Treatment may include topical creams, light therapy, and medications such as retinoids, methotrexate, and biologic agents."
+      },
+      {
+        "name": "Inflammatory bowel disease (Crohn's disease and ulcerative colitis)",
+        "category": "Autoimmune",
+        "description": "Inflammatory bowel disease (IBD) is a chronic autoimmune disorder that affects the digestive tract, causing inflammation, pain, and other gastrointestinal symptoms.",
+        "signs": "Abdominal pain and cramping, diarrhea, rectal bleeding, weight loss.",
+        "symptoms": "Abdominal pain and cramping, diarrhea, rectal bleeding, weight loss, fatigue, joint pain.",
+        "preventions": "There is no known prevention for inflammatory bowel disease.",
+        "medications": "Treatment may include anti-inflammatory drugs, immunosuppressant medications, and biologic agents."
+      },
+      {
+        "name": "Type 1 diabetes",
+        "category": "Autoimmune",
+        "description": "Type 1 diabetes is a chronic autoimmune disorder in which the immune system attacks and destroys the cells in the pancreas that produce insulin, resulting in high levels of blood sugar.",
+        "signs": "Increased thirst, frequent urination, extreme hunger, weight loss, fatigue.",
+        "symptoms": "Increased thirst, frequent urination, extreme hunger, weight loss, fatigue, blurred vision.",
+        "preventions": "There is no known prevention for type 1 diabetes.",
+        "medications": "Treatment may include insulin therapy, blood sugar monitoring, and lifestyle modifications."
+      },
+      {
+        "name": "Graves' disease",
+        "category": "Autoimmune",
+        "description": "Graves' disease is a chronic autoimmune disorder that causes the thyroid gland to produce too much thyroid hormone, resulting in a range of symptoms.",
+        "signs": "Anxiety, tremors, weight loss, rapid heartbeat.",
+        "symptoms": "Anxiety, tremors, weight loss, rapid heartbeat, increased sweating, sensitivity to heat.",
+        "preventions": "There is no known prevention for Graves' disease.",
+        "medications": "Treatment may include anti-thyroid medications, beta blockers, and radioactive iodine therapy."
+      },
+      {
+        "name": "Celiac disease",
+        "category": "Autoimmune",
+        "description": "Celiac disease is a chronic autoimmune disorder in which the immune system reacts to gluten, a protein found in wheat, barley, and rye, causing damage to the small intestine.",
+        "signs": "Abdominal pain, bloating, diarrhea, weight loss.",
+        "symptoms": "Abdominal pain, bloating, diarrhea, weight loss, fatigue, anemia.",
+        "preventions": "The only known prevention for celiac disease is to avoid gluten-containing foods.",
+        "medications": "Treatment involves following a strict gluten-free diet."
+      },
+      {
+        "name": "Vasculitis",
+        "category": "Autoimmune",
+        "description": "Vasculitis is a group of chronic autoimmune disorders that cause inflammation and damage to blood vessels throughout the body.",
+        "signs": "Fever, fatigue, weight loss, joint pain.",
+        "symptoms": "Fever, fatigue, weight loss, joint pain, skin rashes or sores, nerve damage.",
+        "preventions": "There is no known prevention for vasculitis.",
+        "medications": "Treatment may include corticosteroids, immunosuppressant medications, and biologic agents."
+      },
+      {
+        "name": "Myasthenia gravis",
+        "category": "Autoimmune",
+        "description": "Myasthenia gravis is a chronic autoimmune disorder that affects the neuromuscular junction, causing muscle weakness and fatigue.",
+        "signs": "Muscle weakness, fatigue, difficulty speaking or swallowing, drooping eyelids.",
+        "symptoms": "Muscle weakness, fatigue, difficulty speaking or swallowing, drooping eyelids, double vision.",
+        "preventions": "There is no known prevention for myasthenia gravis.",
+        "medications": "Treatment may include cholinesterase inhibitors, immunosuppressant medications, and plasmapheresis."
+      }
+    ]
+  },
+  {
+    "name": "Allergies",
+    "diseases": [
+      {
+        "name": "Allergic Rhinitis (Hay Fever)",
+        "category": "Allergies",
+        "description": "Allergic rhinitis is an allergic reaction to airborne substances, such as pollen, dust, and animal dander.",
+        "signs": "Sneezing, runny or stuffy nose, itchy eyes, nose, or throat.",
+        "symptoms": "Sneezing, runny or stuffy nose, itchy eyes, nose, or throat, fatigue.",
+        "preventions": "Avoid triggers, such as pollen, dust, and animal dander, use air filters, and keep windows closed during peak pollen seasons.",
+        "medications": "Treatment may include antihistamines, decongestants, and nasal corticosteroids."
+      },
+      {
+        "name": "Food Allergies",
+        "category": "Allergies",
+        "description": "Food allergies are an immune system reaction to certain foods, such as nuts, shellfish, and dairy products.",
+        "signs": "Tingling in the mouth, hives, swelling of the lips, face, tongue or throat, difficulty breathing.",
+        "symptoms": "Tingling in the mouth, hives, swelling of the lips, face, tongue or throat, difficulty breathing, abdominal pain or diarrhea.",
+        "preventions": "Avoid trigger foods, read food labels carefully, and inform others of your food allergies.",
+        "medications": "Treatment may include epinephrine, antihistamines, and corticosteroids."
+      },
+      {
+        "name": "Insect Sting Allergies",
+        "category": "Allergies",
+        "description": "Insect sting allergies are an immune system reaction to insect venom, such as from bees, wasps, and hornets.",
+        "signs": "Localized pain, redness, and swelling, hives, itching all over the body, coughing and wheezing.",
+        "symptoms": "Localized pain, redness, and swelling, hives, itching all over the body, coughing and wheezing, anaphylaxis.",
+        "preventions": "Avoid insects, wear protective clothing, avoid brightly colored clothing and floral fragrances.",
+        "medications": "Treatment may include epinephrine, antihistamines, and corticosteroids."
+      },
+      {
+        "name": "Medication Allergies",
+        "category": "Allergies",
+        "description": "Medication allergies are an immune system reaction to certain medications, such as antibiotics, aspirin, and nonsteroidal anti-inflammatory drugs (NSAIDs).",
+        "signs": "Rash, hives, itching, fever, swollen glands.",
+        "symptoms": "Rash, hives, itching, fever, swollen glands, anaphylaxis.",
+        "preventions": "Avoid trigger medications, inform healthcare providers of medication allergies, wear medical alert bracelets or necklaces.",
+        "medications": "Treatment may include epinephrine, antihistamines, and corticosteroids."
+      },
+      {
+        "name": "Allergic Conjunctivitis (Eye Allergies)",
+        "category": "Allergies",
+        "description": "Allergic conjunctivitis is an allergic reaction that affects the eyes, caused by airborne substances such as pollen, dust, and animal dander.",
+        "signs": "Itching, redness, and tearing in the eyes.",
+        "symptoms": "Itching, redness, and tearing in the eyes, swollen eyelids, sensitivity to light.",
+        "preventions": "Avoid triggers, use air filters, keep windows closed during peak pollen seasons.",
+        "medications": "Treatment may include antihistamines, decongestants, and eye drops."
+      },
+      {
+        "name": "Latex Allergy",
+        "category": "Allergies",
+        "description": "Latex allergy is an immune system reaction to latex, a natural rubber material used in many medical products, such as gloves and condoms.",
+        "signs": "Itching, rash, hives, swelling, difficulty breathing.",
+        "symptoms": "Itching, rash, hives, swelling, difficulty breathing, anaphylaxis.",
+        "preventions": "Avoid latex products, use latex-free products, inform healthcare providers of latex allergy.",
+        "medications": "Treatment may include epinephrine, antihistamines, and corticosteroids."
+      },
+      {
+        "name": "Anaphylaxis",
+        "category": "Allergies",
+        "description": "Anaphylaxis is a severe, life-threatening allergic reaction that affects the entire body.",
+        "signs": "Difficulty breathing, swelling of the face and throat, rapid heartbeat, nausea and vomiting.",
+        "symptoms": "Difficulty breathing, swelling of the face and throat, rapid heartbeat, nausea and vomiting, loss of consciousness.",
+        "preventions": "Avoid trigger substances, carry epinephrine auto-injectors, wear medical alert bracelets or necklaces.",
+        "medications": "Treatment must be immediate and may include epinephrine, antihistamines, and corticosteroids."
+      },
+      {
+        "name": "Contact Dermatitis",
+        "category": "Allergies",
+        "description": "Contact dermatitis is a skin reaction caused by direct contact with an irritating or allergenic substance.",
+        "signs": "Redness, itching, and a rash at the site of contact.",
+        "symptoms": "Redness, itching, and a rash at the site of contact, blisters, dry, scaly, or cracked skin.",
+        "preventions": "Avoid triggers, wear protective clothing or gloves, use moisturizers and barrier creams.",
+        "medications": "Treatment may include corticosteroids and antihistamines."
+      },
+      {
+        "name": "Asthma (Allergic Asthma)",
+        "category": "Allergies",
+        "description": "Asthma is a chronic respiratory condition characterized by inflammation and narrowing of the airways, which can be triggered by allergies.",
+        "signs": "Shortness of breath, wheezing, chest tightness, coughing.",
+        "symptoms": "Shortness of breath, wheezing, chest tightness, coughing, difficulty breathing during exercise or at night.",
+        "preventions": "Avoid triggers, use air filters, and take prescribed medications regularly.",
+        "medications": "Treatment may include bronchodilators, inhaled corticosteroids, and leukotriene modifiers."
+      }
+    ]
+  },
+  {
+    "name": "Mental health disorders",
+    "diseases": [
+      {
+        "name": "Anxiety Disorders",
+        "category": "Mental health disorders",
+        "description": "A group of mental health disorders characterized by excessive fear, worry, and anxiety.",
+        "signs": "Feeling restless or on edge, Feeling easily fatigued, Difficulty concentrating, Irritability, Muscle tension, Sleep disturbances",
+        "symptoms": "Panic attacks, Phobias, Social anxiety disorder, Obsessive-compulsive disorder (OCD), Post-traumatic stress disorder (PTSD),Generalized anxiety disorder (GAD)",
+        "preventions": "Maintain a healthy lifestyle, Practice relaxation techniques, Avoid drugs and alcohol, Seek professional help if needed",
+        "medications": "Selective serotonin reuptake inhibitors (SSRIs), Benzodiazepines, Beta blockers"
+      },
+
+      {
+        "name": "Depression",
+        "category": "Mental health disorders",
+        "description": "A mood disorder characterized by persistent feelings of sadness, hopelessness, and loss of interest.",
+        "signs": "Persistent sadness, Loss of interest in activities, Feeling tired or lacking energy,Difficulty concentrating, Feelings of worthlessness or guilt,Changes in appetite or weight",
+        "symptoms": "Major depressive disorder (MDD),Persistent depressive disorder (PDD),Seasonal affective disorder (SAD),Postpartum depression (PPD),Bipolar disorder",
+        "preventions": "Maintain a healthy lifestyle,Stay connected with others,Challenge negative thinking,Seek professional help if needed",
+        "medications": "Selective serotonin reuptake inhibitors (SSRIs),Serotonin and norepinephrine reuptake inhibitors (SNRIs),Atypical antidepressants,Tricyclic antidepressants (TCAs)"
+      },
+
+      {
+        "name": "Bipolar Disorder",
+        "category": "Mental health disorders",
+        "description": "A mental health disorder characterized by alternating episodes of mania and depression.",
+        "signs": "Manic episodes,Depressive episodes,Rapid mood swings,Impulsive behavior,Sleep disturbances",
+        "symptoms": "Bipolar I disorder,Bipolar II disorder,Cyclothymic disorder,Other specified bipolar and related disorders",
+        "preventions": "Maintain a healthy lifestyle,Stay on prescribed medications,Avoid drugs and alcohol,Seek professional help if needed",
+        "medications": "Mood stabilizers,Antipsychotics,Antidepressants,Anticonvulsants"
+      },
+
+      {
+        "name": "Schizophrenia",
+        "category": "Mental health disorders",
+        "description": "A chronic and severe mental health disorder that affects how a person thinks, feels, and behaves.",
+        "signs": "Delusions, Hallucinations,Disordered thinking and speech, Abnormal motor behavior,Negative symptoms (lack of emotion, apathy, lack of motivation)",
+        "symptoms": "Positive symptoms (delusions, hallucinations, disordered thinking and speech),Negative symptoms (lack of emotion, apathy, lack of motivation),Cognitive symptoms (impaired memory, attention, and decision-making)",
+        "preventions": "Seek professional help as soon as symptoms appear,Stay on prescribed medications,Maintain a healthy lifestyle,Avoid drugs and alcohol",
+        "medications": "Antipsychotics,Atypical antipsychotics,Antidepressants,Anti-anxiety medications"
+      },
+
+      {
+        "name": "Obsessive-Compulsive Disorder (OCD)",
+        "category": "Mental health disorders",
+        "description": "A mental health disorder characterized by unwanted, intrusive thoughts (obsessions) and repetitive behaviors or mental acts (compulsions).",
+        "signs": "Persistent, unwanted thoughts,Repetitive behaviors or mental acts,Feelings of anxiety or distress",
+        "symptoms": "Obsessions (contamination, harm, symmetry, etc.),Compulsions (cleaning, checking, counting, etc.)",
+        "preventions": "Seek professional help as soon as symptoms appear,Practice relaxation techniques,Challenge negative thoughts,Avoid drugs and alcohol",
+        "medications": "Selective serotonin reuptake inhibitors (SSRIs),Tricyclic antidepressants (TCAs),Atypical antipsychotics"
+      },
+
+      {
+        "name": "Post-Traumatic Stress Disorder (PTSD)",
+        "category": "Mental health disorders",
+        "description": "A mental health disorder that can develop after experiencing or witnessing a traumatic event.",
+        "signs": "Intrusive thoughts or memories of the traumatic event,Avoidance of triggers related to the trauma,Negative changes in mood or thinking, Hyperarousal or hypervigilance",
+        "symptoms": "Flashbacks,Nightmares,Anxiety and panic attacks,Irritability and aggression,Depression,Substance abuse",
+        "preventions": "Seek professional help as soon as possible after the traumatic event,Practice relaxation techniques,Maintain a healthy lifestyle,Avoid drugs and alcohol",
+        "medications": "Selective serotonin reuptake inhibitors (SSRIs),Serotonin and norepinephrine reuptake inhibitors (SNRIs),Atypical antipsychotics,Prazosin (for nightmares)"
+      },
+
+      {
+        "name": "Borderline Personality Disorder (BPD)",
+        "category": "Mental health disorders",
+        "description": "Borderline personality disorder is a mental disorder characterized by unstable moods, behavior, and relationships.",
+        "signs": "Fear of abandonment, unstable relationships, impulsive behavior, self-harm, suicidal behavior.",
+        "symptoms": "Mood swings, impulsivity, identity disturbance, feelings of emptiness, intense and unstable relationships.",
+        "preventions": "Psychotherapy, medication, and healthy lifestyle habits.",
+        "medications": "Antidepressants, mood stabilizers, and antipsychotics."
+      },
+      {
+        "name": "Eating Disorders",
+        "category": "Mental health disorders",
+        "description": "Eating disorders are mental health conditions that involve persistent and abnormal eating habits that can harm your health, emotions, and ability to function.",
+        "signs": "Intense fear of gaining weight, distorted body image, refusal to maintain a healthy weight, binge eating followed by purging (in case of bulimia), eating large amounts of food in a short period of time accompanied by feeling of loss of control (in case of binge eating disorder)",
+        "symptoms": "Severely restricting food intake, preoccupation with weight and food, food rituals (e.g. cutting food into tiny pieces), excessive exercising, purging through vomiting, laxative use, or diuretics, withdrawal from social situations, mood swings, depression, anxiety.",
+        "preventions": "Early detection and intervention, promoting positive body image, developing healthy eating habits, seeking counseling or therapy, engaging in physical activity.",
+        "medications": "Selective serotonin reuptake inhibitors (SSRIs), antidepressants, antipsychotics, mood stabilizers."
+      },
+      {
+        "name": "Substance Use Disorders",
+        "category": "Mental health disorders",
+        "description": "Substance use disorders occur when a person becomes dependent on or addicted to a drug or alcohol and continues to use it despite harmful consequences.",
+        "signs": "Inability to control drug or alcohol use, cravings, tolerance, withdrawal symptoms, neglecting responsibilities, legal or financial problems, continued use despite negative consequences.",
+        "symptoms": "Cravings, changes in appetite or sleep patterns, mood swings, changes in behavior, poor hygiene, secretive behavior, withdrawal from social situations.",
+        "preventions": "Early intervention, educating people about the dangers of substance use, promoting healthy coping strategies, avoiding triggers, engaging in social activities.",
+        "medications": "Methadone, buprenorphine, naltrexone, acamprosate, disulfiram."
+      },
+      {
+        "name": "Insomnia and Other Sleep Disorders",
+        "category": "Mental health disorders",
+        "description": "Insomnia and other sleep disorders are conditions that affect a person's ability to sleep and can cause daytime fatigue, irritability, and difficulty concentrating.",
+        "signs": "Difficulty falling asleep or staying asleep, waking up too early, daytime fatigue, irritability, difficulty concentrating, mood swings.",
+        "symptoms": "Fatigue, difficulty concentrating, mood swings, memory problems, irritability, decreased performance at work or school, impaired social interactions.",
+        "preventions": "Establishing a regular sleep routine, avoiding caffeine and alcohol before bedtime, creating a comfortable sleep environment, engaging in relaxation techniques, seeking treatment for underlying medical or psychiatric conditions.",
+        "medications": "Benzodiazepines, non-benzodiazepine sedatives, melatonin agonists, antidepressants, antipsychotics."
+      },
+      {
+        "name": "Personality Disorders",
+        "category": "Mental health disorders",
+        "description": "Personality disorders are mental health conditions that affect a person's thoughts, feelings, and behaviors, and can cause significant distress and problems with relationships and daily functioning.",
+        "signs": "Difficulty forming close relationships, low self-esteem, emotional instability, impulsiveness, irritability, paranoia, suspiciousness.",
+        "symptoms": "Chronic feelings of emptiness, impulsive behavior, unstable relationships, intense and unstable emotions, distorted self-image, suicidal thoughts or behavior.",
+        "preventions": "Psychotherapy, group therapy, medication for symptoms, developing healthy coping strategies, improving social and communication skills.",
+        "medications": "Antidepressants, mood stabilizers, antipsychotics, anti-anxiety medication"
+      }
+    ]
+  },
+  {
+    "name": "Genetic",
+    "diseases": [
+      {
+        "name": "Cystic Fibrosis",
+        "category": "Genetic",
+        "description": "A genetic disorder that affects the lungs, pancreas, and other organs, leading to difficulty breathing and digestive problems.",
+        "signs": "Persistent cough with thick mucus,Wheezing or shortness of breath,Poor growth or weight gain,Frequent lung infections,Difficulty with bowel movements",
+        "symptoms": "Lung problems (bronchitis, pneumonia, etc.),Digestive problems (malabsorption, bowel obstruction, etc.),Sinus infections,Infertility in men",
+        "preventions": "Genetic counseling,Prenatal testing,Avoidance of smoking and secondhand smoke",
+        "medications": "Bronchodilators,Mucolytics,Antibiotics,Pancreatic enzyme supplements"
+      },
+
+      {
+        "name": "Huntington's Disease",
+        "category": "Genetic",
+        "description": "A genetic disorder that affects the brain, leading to cognitive and motor impairments, and psychiatric symptoms.",
+        "signs": "Uncontrolled movements,Difficulty with balance and coordination,Cognitive decline,Behavioral changes",
+        "symptoms": "Motor symptoms (chorea, rigidity, etc.), Cognitive decline (dementia), Psychiatric symptoms (depression, anxiety, etc.)",
+        "preventions": "Genetic counseling,Prenatal testing",
+        "medications": "Antipsychotics,Antidepressants,Mood stabilizers,Tetrabenazine (for movement symptoms)"
+      },
+
+      {
+        "name": "Hemophilia",
+        "category": "Genetic",
+        "description": "A genetic disorder that affects blood clotting, leading to excessive bleeding and bruising.",
+        "signs": "Excessive bleeding from cuts or injuries,Frequent nosebleeds,Easy bruising,Blood in urine or stool,Pain and swelling in joints",
+        "symptoms": "Bleeding into joints (hemarthrosis),Bleeding into muscles and soft tissues (hematoma),Bleeding in the brain (intracranial hemorrhage)",
+        "preventions": "Genetic counseling,Avoidance of activities that may cause injury",
+        "medications": "Clotting factor concentrates,Desmopressin,Antifibrinolytics"
+      },
+
+      {
+        "name": "Down Syndrome",
+        "category": "Genetic",
+        "description": "A genetic disorder that causes intellectual disability and developmental delays, and may also cause physical abnormalities.",
+        "signs": "Flattened facial features,Small head and ears,Short neck,Poor muscle tone,Protruding tongue",
+        "symptoms": "Intellectual disability,Developmental delays,Hypotonia,Heart defects,Hearing loss",
+        "preventions": "Prenatal testing,Genetic counseling",
+        "medications": "Medications to treat associated conditions, such as heart defects or thyroid problems"
+      },
+
+      {
+        "name": "Phenylketonuria (PKU)",
+        "category": "Genetic",
+        "description": "A genetic disorder that affects the metabolism of the amino acid phenylalanine, leading to intellectual disability and other symptoms.",
+        "signs": "Seizures,Skin rashes,Musty odor in the breath, skin, and urine,Hyperactivity,Tremors",
+        "symptoms": "Intellectual disability,Behavioral problems,Delayed development,Microcephaly,Skin disorders",
+        "preventions": "Newborn screening,Dietary restriction of phenylalanine",
+        "medications": "Supplements to provide adequate levels of essential amino acids,Medications to treat associated symptoms, such as seizures"
+      },
+
+      {
+        "name": "Tay-Sachs Disease",
+        "category": "Genetic",
+        "description": "A genetic disorder that affects the nervous system, leading to developmental delays, vision and hearing loss, and other symptoms.",
+        "signs": "Muscle weakness,Stiffness and rigidity,Seizures,Blindness,Deafness",
+        "symptoms": "Developmental delays,Loss of motor skills,Progressive dementia,Vision and hearing loss,Difficulty swallowing",
+        "preventions": "Genetic counseling,Prenatal testing",
+        "medications": "Palliative care to manage symptoms,Medications to treat associated conditions, such as seizures or respiratory problems"
+      },
+
+      {
+        "name": "Achondroplasia",
+        "category": "Genetic",
+        "description": "A genetic disorder that affects bone growth, leading to short stature and other physical abnormalities.",
+        "signs": "Short arms and legs,Disproportionate head size,Prominent forehead,Narrowing of the spinal canal,Curvature of the spine",
+        "symptoms": "Short stature,Skeletal abnormalities,Delayed motor development,Obstructive sleep apnea,Middle ear infections",
+        "preventions": "Genetic counseling,Prenatal testing",
+        "medications": "Surgical interventions to manage associated conditions, such as spinal stenosis"
+      },
+
+      {
+        "name": "Huntington's Disease",
+        "category": "Genetic",
+        "description": "Huntington's Disease is a progressive brain disorder that affects movement, cognition, and behavior. It is caused by a mutation in the HTT gene.",
+        "signs": "Jerky, involuntary movements, poor balance, difficulty with coordination, trouble swallowing, cognitive decline",
+        "symptoms": "Changes in mood or personality, cognitive decline, involuntary movements, difficulty with balance and coordination",
+        "preventions": "There is no known way to prevent Huntington's Disease, but genetic testing can identify the risk of the disease in families.",
+        "medications": "There is no cure for Huntington's Disease, but medications can help manage the symptoms and improve quality of life."
+      },
+      {
+        "name": "Sickle Cell Anemia",
+        "category": "Genetic",
+        "description": "Sickle Cell Anemia is a genetic disorder that affects the production of hemoglobin, a protein in red blood cells that carries oxygen throughout the body. It causes the red blood cells to become misshapen and break down easily.",
+        "signs": "Pain, swelling, and inflammation in the hands and feet, fatigue, jaundice, delayed growth and development",
+        "symptoms": "Painful episodes, fatigue, jaundice, delayed growth and development, frequent infections",
+        "preventions": "There is no known way to prevent sickle cell anemia, but genetic counseling and testing can help identify the risk of the disease in families.",
+        "medications": "Pain medications, antibiotics, and blood transfusions can help manage the symptoms of sickle cell anemia."
+      },
+      {
+        "name": "Hemophilia",
+        "category": "Genetic",
+        "description": "Hemophilia is a genetic bleeding disorder that prevents the blood from clotting properly. It is caused by a deficiency in one of the clotting factors in the blood.",
+        "signs": "Unexplained bleeding or bruising, prolonged bleeding after injury or surgery, joint pain or swelling",
+        "symptoms": "Frequent and prolonged bleeding, joint pain and swelling, easy bruising, fatigue",
+        "preventions": "There is no known way to prevent hemophilia, but genetic counseling and testing can help identify the risk of the disease in families.",
+        "medications": "Clotting factor replacement therapy, desmopressin, and other medications can help manage the symptoms of hemophilia."
+      },
+      {
+        "name": "Marfan Syndrome",
+        "category": "Genetic",
+        "description": "Marfan Syndrome is a genetic disorder that affects the connective tissue in the body. It can cause problems with the heart, blood vessels, bones, and other organs.",
+        "signs": "Tall and thin build, long limbs and fingers, flexible joints, scoliosis, heart problems",
+        "symptoms": "Heart problems, vision problems, scoliosis, joint pain and stiffness, fatigue",
+        "preventions": "There is no known way to prevent Marfan Syndrome, but genetic testing can identify the risk of the disease in families.",
+        "medications": "Beta blockers, ACE inhibitors, and other medications can help manage the symptoms of Marfan Syndrome."
+      },
+      {
+        "name": "Duchenne Muscular Dystrophy",
+        "category": "Genetic",
+        "description": "Duchenne Muscular Dystrophy is a genetic disorder that causes progressive muscle weakness and degeneration. It primarily affects boys and is caused by a mutation in the DMD gene.",
+        "signs": "Delayed development of motor skills, frequent falls, muscle weakness and wasting, difficulty running and jumping",
+        "symptoms": "Progressive muscle weakness and wasting, difficulty with motor skills, frequent falls, breathing problems",
+        "preventions": "There is no known way to prevent Duchenne Muscular Dystrophy, but genetic testing can identify the risk of the disease in families.",
+        "medications": "Steroids, muscle relaxants, and other medications can help manage the symptoms of Duchenne Muscular Dystrophy."
+      },
+      {
+        "name": "Spinal Muscular Atrophy",
+        "category": "Genetic",
+        "description": "Spinal Muscular Atrophy is a genetic disorder that affects the nerves that control muscle movement. It can cause muscle weakness, wasting, and breathing difficulties.",
+        "signs": "Difficulty with motor skills, muscle weakness and wasting, breathing difficulties, poor head control",
+        "symptoms": "Muscle weakness and wasting, difficulty with motor skills, breathing difficulties, poor head control",
+        "preventions": "There is no known way to prevent Spinal Muscular Atrophy, but genetic testing can identify the risk of the disease in families.",
+        "medications": "There is currently no cure for Spinal Muscular Atrophy, but medications can help manage the symptoms and improve quality of life."
+      },
+      {
+        "name": "Phenylketonuria (PKU)",
+        "category": "Genetic",
+        "description": "Phenylketonuria (PKU) is a genetic disorder in which the body cannot break down phenylalanine, an amino acid found in many foods. This can lead to a buildup of phenylalanine in the blood and brain, causing intellectual disability and other complications.",
+        "signs": "Fair skin, blue eyes, and blonde hair, musty or mousy odor, seizures",
+        "symptoms": "Intellectual disability, developmental delays, seizures, behavioral problems, skin rashes",
+        "preventions": "PKU can be managed through a special diet that limits the intake of phenylalanine. Screening for PKU in newborns is also important to detect the disorder early and prevent complications.",
+        "medications": "There is no cure for PKU, but a special diet and supplements can help manage the symptoms and prevent complications."
+      },
+      {
+        "name": "Fragile X Syndrome",
+        "category": "Genetic",
+        "description": "Fragile X Syndrome is a genetic disorder that causes intellectual disability, behavioral and learning challenges, and physical characteristics such as a long face and large ears.",
+        "signs": "Large ears, long face, hyperflexible joints, social anxiety",
+        "symptoms": "Intellectual disability, learning and behavioral challenges, sensory processing issues, anxiety and mood disorders",
+        "preventions": "There is no known way to prevent Fragile X Syndrome, but genetic testing can identify the risk of the disease in families.",
+        "medications": "Medications can help manage the symptoms of Fragile X Syndrome, including behavioral challenges and anxiety."
+      },
+      {
+        "name": "Turner Syndrome",
+        "category": "Genetic",
+        "description": "Turner Syndrome is a genetic disorder that affects females and can cause short stature, infertility, and other complications. It is caused by a missing or incomplete X chromosome.",
+        "signs": "Short stature, webbed neck, low hairline, delayed puberty",
+        "symptoms": "Short stature, infertility, heart and kidney problems, learning difficulties",
+        "preventions": "There is no known way to prevent Turner Syndrome, but early detection through genetic testing can help manage the symptoms and prevent complications.",
+        "medications": "Hormone replacement therapy can help manage the symptoms of Turner Syndrome, including short stature and delayed puberty. Surgery may be required for certain complications."
+      },
+      {
+        "name": "Klinefelter Syndrome",
+        "category": "Genetic",
+        "description": "Klinefelter Syndrome is a genetic disorder that affects males and can cause infertility, low testosterone levels, and other complications. It is caused by an extra X chromosome.",
+        "signs": "Tall stature, small testicles, breast development, delayed puberty",
+        "symptoms": "Infertility, low testosterone levels, breast development, learning difficulties",
+        "preventions": "There is no known way to prevent Klinefelter Syndrome, but early detection through genetic testing can help manage the symptoms and prevent complications.",
+        "medications": "Testosterone replacement therapy can help manage the symptoms of Klinefelter Syndrome, including low testosterone levels and infertility."
+      },
+      {
+        "name": "Cri-du-Chat Syndrome",
+        "category": "Genetic",
+        "description": "Cri-du-Chat Syndrome is a genetic disorder that affects the larynx and causes a characteristic high-pitched cry in infants. It can also cause intellectual disability and other complications.",
+        "signs": "Characteristic high-pitched cry, small head size, wide-set eyes, low birth weight",
+        "symptoms": "Intellectual disability, delayed development, feeding difficulties, respiratory problems",
+        "preventions": "There is no known way to prevent Cri-du-Chat Syndrome, but early detection through genetic testing can help manage the symptoms and prevent complications.",
+        "medications": "There is no cure for Cri-du-Chat Syndrome, but medications and therapies can help manage the symptoms and improve quality of life."
+      },
+      {
+        "name": "Prader-Willi Syndrome",
+        "category": "Genetic",
+        "description": "Prader-Willi Syndrome is a genetic disorder that can cause intellectual disability, compulsive overeating, and other complications. It is caused by a loss of function of certain genes on chromosome 15.",
+        "signs": "Low muscle tone, small hands and feet, almond-shaped eyes, obesity",
+        "symptoms": "Intellectual disability, compulsive overeating, delayed development, behavior problems",
+        "preventions": "There is no known way to prevent Prader-Willi Syndrome, but early detection through genetic testing can help manage the symptoms and prevent complications.",
+        "medications": "There is no cure for Prader-Willi Syndrome, but medications and therapies can help manage the symptoms, including compulsive overeating."
+      },
+      {
+        "name": "Angelman Syndrome",
+        "category": "Genetic",
+        "description": "Angelman Syndrome is a genetic disorder that can cause intellectual disability, developmental delays, and other complications. It is caused by a loss of function of certain genes on chromosome 15.",
+        "signs": "Frequent laughter and happy demeanor, small head size, wide-set eyes, hand flapping",
+        "symptoms": "Intellectual disability, developmental delays, speech problems, movement and balance problems",
+        "preventions": "There is no known way to prevent Angelman Syndrome, but early detection through genetic testing can help manage the symptoms and prevent complications.",
+        "medications": "There is no cure for Angelman Syndrome, but medications and therapies can help manage the symptoms, including seizures and movement problems."
+      },
+      {
+        "name": "Rett Syndrome",
+        "category": "Genetic",
+        "description": "Rett Syndrome is a genetic disorder that can cause intellectual disability, developmental regression, and other complications. It primarily affects girls and is caused by mutations in the MECP2 gene.",
+        "signs": "Slowed head growth, loss of hand skills, repetitive hand movements, breathing problems",
+        "symptoms": "Intellectual disability, developmental regression, seizures, movement and coordination problems",
+        "preventions": "There is no known way to prevent Rett Syndrome, but early detection through genetic testing can help manage the symptoms and prevent complications.",
+        "medications": "There is no cure for Rett Syndrome, but medications and therapies can help manage the symptoms, including seizures and movement problems."
+      },
+      {
+        "name": "Neurofibromatosis",
+        "category": "Genetic",
+        "description": "Neurofibromatosis is a genetic disorder that can cause tumors to grow on nerve tissue. It can also cause skin and bone abnormalities and other complications. There are two types: NF1 and NF2.",
+        "signs": "Skin abnormalities, such as cafe-au-lait spots and neurofibromas, bone deformities, hearing loss",
+        "symptoms": "Tumors on nerve tissue, vision problems, seizures, learning difficulties",
+        "preventions": "There is no known way to prevent Neurofibromatosis, but early detection through genetic testing can help manage the symptoms and prevent complications.",
+        "medications": "There is no cure for Neurofibromatosis, but medications and surgeries can help manage the symptoms, including tumors on nerve tissue."
+      },
+      {
+        "name": "Williams Syndrome",
+        "category": "Genetic",
+        "description": "Williams Syndrome is a genetic disorder that can cause developmental delays, intellectual disability, and other complications. It is caused by a deletion of genetic material on chromosome 7.",
+        "signs": "Distinct facial features, such as a small upturned nose, wide mouth, and puffiness around the eyes, heart defects",
+        "symptoms": "Intellectual disability, developmental delays, learning difficulties, anxiety",
+        "preventions": "There is no known way to prevent Williams Syndrome, but early detection through genetic testing can help manage the symptoms and prevent complications.",
+        "medications": "There is no cure for Williams Syndrome, but medications and therapies can help manage the symptoms, including anxiety and learning difficulties."
+      },
+      {
+        "name": "Bloom Syndrome",
+        "category": "Genetic",
+        "description": "Bloom Syndrome is a rare genetic disorder that can cause growth deficiencies, immune system problems, and an increased risk of cancer. It is caused by mutations in the BLM gene.",
+        "signs": "Short stature, sun-sensitive skin, small head size, increased susceptibility to infections",
+        "symptoms": "Increased risk of cancer, developmental delays, learning difficulties, immune system problems",
+        "preventions": "There is no known way to prevent Bloom Syndrome, but early detection through genetic testing can help manage the symptoms and prevent complications.",
+        "medications": "There is no cure for Bloom Syndrome, but medications and therapies can help manage the symptoms and reduce the risk of cancer."
+      }
+    ]
+  },
+  {
+    "name": "Cancer",
+    "diseases": [
+      {
+        "name": "Breast Cancer",
+        "category": "Cancer",
+        "description": "A type of cancer that starts in the breast tissue and can spread to other parts of the body.",
+        "signs": "Lump or thickening in the breast tissue,Changes in breast size or shape,Nipple discharge or inversion,Redness or thickening of the nipple or breast skin,Swelling in the armpit",
+        "symptoms": "Pain or tenderness in the breast,Changes in breast texture or color,Skin irritation or dimpling,Nipple pain or discharge,Swollen lymph nodes in the armpit",
+        "preventions": "Regular breast cancer screenings, including mammograms and clinical breast exams,Healthy lifestyle choices, such as maintaining a healthy weight, exercising regularly, and limiting alcohol consumption",
+        "medications": "Chemotherapy,Radiation therapy,Hormone therapy,Targeted therapy,Surgery"
+      },
+
+      {
+        "name": "Lung Cancer",
+        "category": "Cancer",
+        "description": "A type of cancer that starts in the lungs and can spread to other parts of the body.",
+        "signs": "Persistent cough,Chest pain,Shortness of breath,Wheezing,Hoarseness",
+        "symptoms": "Coughing up blood,Loss of appetite,Fatigue,Unintentional weight loss,Recurrent respiratory infections",
+        "preventions": "Avoiding smoking and exposure to secondhand smoke,Reducing exposure to air pollution and carcinogens,Healthy lifestyle choices, such as maintaining a healthy weight and exercising regularly",
+        "medications": "Chemotherapy,Radiation therapy,Targeted therapy,Immunotherapy,Surgery"
+      },
+
+      {
+        "name": "Colorectal Cancer",
+        "category": "Cancer",
+        "description": "A type of cancer that starts in the colon or rectum and can spread to other parts of the body.",
+        "signs": "Rectal bleeding or blood in the stool,Abdominal pain or cramping,Changes in bowel habits,Weakness or fatigue,Unintentional weight loss",
+        "symptoms": "Diarrhea or constipation,Narrow stools,Feeling like the bowel does not empty completely,Anemia,Abdominal swelling or bloating",
+        "preventions": "Screening for colon cancer starting at age 50 or earlier if there is a family history,Maintaining a healthy weight and exercising regularly,Eating a diet rich in fruits, vegetables, and whole grains, and limiting red meat and processed foods",
+        "medications": "Chemotherapy,Radiation therapy,Targeted therapy,Immunotherapy,Surgery"
+      },
+
+      {
+        "name": "Prostate Cancer",
+        "category": "Cancer",
+        "description": "A type of cancer that starts in the prostate gland and can spread to other parts of the body.",
+        "signs": "Frequent urination, especially at night,Difficulty starting or stopping urination,Weak or interrupted urine flow,Pain or burning during urination,Blood in the urine or semen",
+        "symptoms": "Erectile dysfunction,Painful ejaculation,Pain or stiffness in the back, hips, or pelvis,Fatigue,Unintentional weight loss",
+        "preventions": "Maintaining a healthy weight and exercising regularly,Eating a diet rich in fruits, vegetables, and whole grains,Limiting red meat and high-fat dairy products,Screening for prostate cancer starting at age 50 or earlier if there is a family history",
+        "medications": "Hormone therapy,Chemotherapy,Radiation therapy,Surgery"
+      },
+
+      {
+        "name": "Skin Cancer",
+        "category": "Cancer",
+        "description": "A type of cancer that starts in the skin and can spread to other parts of the body.",
+        "signs": "Changes in the size, shape, or color of a mole or other skin lesion,A new growth on the skin,A sore that does not heal,Redness or swelling around a skin lesion,Itching, tenderness, or pain around a skin lesion",
+        "symptoms": "Pain or tenderness in the skin,Changes in skin texture, such as rough or scaly skin,Ulceration or bleeding from a skin lesion,Enlarged lymph nodes near the affected area,Fatigue",
+        "preventions": "Wearing protective clothing and sunscreen when in the sun,Avoiding indoor tanning,Performing regular skin self-exams and seeing a dermatologist for any suspicious skin changes",
+        "medications": "Topical chemotherapy,Immunotherapy,Surgery"
+      },
+
+      {
+        "name": "Leukemia",
+        "category": "Cancer",
+        "description": "A type of cancer that affects the blood and bone marrow.",
+        "signs": "Fever or chills,Fatigue,Weakness,Headaches,Pain in the bones or joints",
+        "symptoms": "Unexplained weight loss,Frequent infections,Easy bruising or bleeding,Shortness of breath,Swollen lymph nodes",
+        "preventions": "Avoiding exposure to certain chemicals and radiation,Limiting alcohol consumption,Maintaining a healthy lifestyle with regular exercise and a balanced diet",
+        "medications": "Chemotherapy,Radiation therapy,Stem cell transplant,Targeted therapy"
+      },
+
+      {
+        "name": "Bladder cancer",
+        "category": "Cancer",
+        "description": "Bladder cancer is a type of cancer that begins in the cells of the bladder. The bladder is a hollow, muscular organ in the lower abdomen that stores urine.",
+        "signs": "Blood in urine, frequent urination, painful urination, back pain, weight loss, fatigue",
+        "symptoms": "Frequent urination, painful urination, blood in urine, back pain",
+        "preventions": "Quit smoking, drink plenty of fluids, maintain a healthy weight, avoid exposure to toxic chemicals",
+        "medications": "Chemotherapy, radiation therapy, immunotherapy, targeted therapy, surgery"
+      },
+      {
+        "name": "Kidney cancer",
+        "category": "Cancer",
+        "description": "Kidney cancer is a type of cancer that begins in the cells of the kidney. The kidneys are two bean-shaped organs in the lower back that filter waste from the blood and produce urine.",
+        "signs": "Blood in urine, lower back pain on one side, fatigue, weight loss, fever",
+        "symptoms": "Blood in urine, lower back pain on one side, fatigue, weight loss",
+        "preventions": "Quit smoking, maintain a healthy weight, control high blood pressure, avoid exposure to toxic chemicals",
+        "medications": "Chemotherapy, radiation therapy, immunotherapy, targeted therapy, surgery"
+      },
+      {
+        "name": "Thyroid cancer",
+        "category": "Cancer",
+        "description": "Thyroid cancer is a type of cancer that begins in the cells of the thyroid gland. The thyroid is a small gland located in the neck that produces hormones that regulate metabolism.",
+        "signs": "Lump in the neck, difficulty swallowing, hoarseness, swollen lymph nodes, neck pain",
+        "symptoms": "Lump in the neck, difficulty swallowing, hoarseness",
+        "preventions": "There are no known preventions for thyroid cancer",
+        "medications": "Thyroid hormone replacement therapy, radioactive iodine therapy, chemotherapy, targeted therapy, surgery"
+      },
+
+      {
+        "name": "lymphoma",
+        "category": "Cancer",
+        "description": "Lymphoma is a cancer that starts in cells that are part of the body's immune system. There are two main types of lymphoma: Hodgkin lymphoma and non-Hodgkin lymphoma.",
+        "signs": "Swollen lymph nodes,Fatigue,Unexplained weight loss,Night sweats,Fever",
+        "symptoms": "Painless swelling in the lymph nodes,Coughing or shortness of breath,Chest pain,Abdominal pain or swelling,Loss of appetite",
+        "preventions": "Avoid exposure to chemicals and radiation, Maintain a healthy immune system,Get vaccinated against viruses that can cause lymphoma, such as hepatitis B and C,Exercise regularly and eat a healthy diet",
+        "medications": "Chemotherapy,Radiation therapy,Immunotherapy,Targeted therapy,Stem cell transplantation"
+      },
+      {
+        "name": "pancreatic cancer",
+        "category": "Cancer",
+        "description": "Pancreatic cancer is a disease in which malignant cells form in the tissues of the pancreas.",
+        "signs": "Jaundice, Abdominal pain, Weight loss,Loss of appetite,Fatigue",
+        "symptoms": "Upper abdominal pain that may radiate to the back,Yellowing of the skin and eyes,Loss of appetite,Nausea and vomiting,New-onset diabetes or changes in blood sugar levels",
+        "preventions": "Stop smoking or never start,Maintain a healthy weight,Limit alcohol consumption,Eat a healthy diet with plenty of fruits and vegetables,Exercise regularly",
+        "medications": "Chemotherapy,Radiation therapy,Surgery,Immunotherapy,Targeted therapy"
+      },
+      {
+        "name": "liver cancer",
+        "category": "Cancer",
+        "description": "Liver cancer is a type of cancer that starts in the cells of the liver.",
+        "signs": "Abdominal pain,Jaundice,Weight loss,Fatigue,Nausea and vomiting",
+        "symptoms": "Abdominal swelling,Yellowing of the skin and eyes,Loss of appetite,Nausea and vomiting,General weakness and fatigue",
+        "preventions": "Limit alcohol consumption, Get vaccinated against hepatitis B,Maintain a healthy weight,Eat a healthy diet with plenty of fruits and vegetables,Avoid exposure to hepatitis C and other liver-damaging chemicals",
+        "medications": "Surgery,Chemotherapy,Radiation therapy,Targeted therapy,Immunotherapy"
+      },
+
+      {
+        "name": "Ovarian cancer",
+        "category": "Cancer",
+        "description": "Ovarian cancer is a type of cancer that begins in the ovaries, the female reproductive organs that produce eggs.",
+        "signs": "Pelvic pain or pressure,Abdominal swelling or bloating,Feeling full quickly when eating,Urinary urgency or frequency,Changes in bowel habits,Back pain,Fatigue",
+        "symptoms": "Pain during sex,Abnormal vaginal bleeding,Nausea or vomiting,Shortness of breath,Unintentional weight loss,Loss of appetite",
+        "preventions": "Use of oral contraceptives,Pregnancy and breastfeeding,Tubal ligation or hysterectomy,Avoidance of talc-based baby powder",
+        "medications": "Chemotherapy,Targeted therapy,PARP inhibitors,Hormone therapy,Immunotherapy"
+      },
+      {
+        "name": "Cervical cancer",
+        "category": "Cancer",
+        "description": "Cervical cancer is a type of cancer that occurs in the cells of the cervix, the lower part of the uterus that connects to the vagina.",
+        "signs": "Abnormal vaginal bleeding,Unusual vaginal discharge,Pain during sex,Pelvic pain or pressure",
+        "symptoms": "Fatigue,Unintentional weight loss,Loss of appetite,Leg pain or swelling",
+        "preventions": "HPV vaccination,Regular cervical cancer screenings,Limiting sexual partners,Avoiding tobacco use",
+        "medications": "Chemotherapy,Radiation therapy,Surgery"
+      },
+      {
+        "name": "Uterine cancer",
+        "category": "Cancer",
+        "description": "Uterine cancer is a type of cancer that begins in the lining of the uterus, the organ where a fetus grows during pregnancy.",
+        "signs": "Vaginal bleeding after menopause,Abnormal vaginal bleeding,Pelvic pain or pressure",
+        "symptoms": "Abnormal vaginal discharge,Pain during sex,Pain during urination,Unintentional weight loss,Loss of appetite",
+        "preventions": "Use of oral contraceptives,Pregnancy and breastfeeding,Hysterectomy,Maintaining a healthy weight",
+        "medications": "Chemotherapy,Radiation therapy,Surgery"
+      }
+    ]
+  },
+  {
+    "name": "Sexually transmitted",
+    "diseases": [
+      {
+        "name": "Chlamydia",
+        "category": "Sexually transmitted",
+        "description": "Chlamydia is a common sexually transmitted bacterial infection that can cause serious complications if left untreated.",
+        "signs": "Symptoms of chlamydia may include painful urination, discharge from the vagina or penis, and pain during sex.",
+        "symptoms": "Chlamydia may not cause any symptoms in some people, which is why it's important to get tested regularly if you are sexually active.",
+        "preventions": "Using condoms correctly and consistently during sexual activity can greatly reduce your risk of getting chlamydia. Being in a mutually monogamous relationship can also help prevent the spread of the infection.",
+        "medications": "Chlamydia can be treated with antibiotics, such as azithromycin or doxycycline."
+      },
+      {
+        "name": "Gonorrhea",
+        "category": "Sexually transmitted",
+        "description": "Gonorrhea is a bacterial infection that can be transmitted through sexual contact.",
+        "signs": "Signs of gonorrhea may include painful urination, discharge from the vagina or penis, and pain or bleeding during sex.",
+        "symptoms": "Some people with gonorrhea may not experience any symptoms, but if left untreated, it can lead to serious complications like infertility and pelvic inflammatory disease (PID).",
+        "preventions": "Using condoms during sexual activity can greatly reduce your risk of getting gonorrhea. Being in a mutually monogamous relationship can also help prevent the spread of the infection.",
+        "medications": "Gonorrhea can be treated with antibiotics, such as ceftriaxone and azithromycin."
+      },
+      {
+        "name": "Syphilis",
+        "category": "Sexually transmitted",
+        "description": "Syphilis is a bacterial infection that can be transmitted through sexual contact or from mother to child during pregnancy.",
+        "signs": "Signs of syphilis can include sores or ulcers on the genitals or mouth, rash, fever, and fatigue.",
+        "symptoms": "Syphilis can be divided into stages, with each stage presenting different symptoms. If left untreated, it can lead to serious complications like blindness, dementia, and even death.",
+        "preventions": "Using condoms during sexual activity can greatly reduce your risk of getting syphilis. Being in a mutually monogamous relationship can also help prevent the spread of the infection.",
+        "medications": "Syphilis can be treated with antibiotics, such as penicillin. If caught early, treatment can prevent the development of serious complications."
+      },
+      {
+        "name": "Herpes",
+        "category": "Sexually transmitted",
+        "description": "Herpes is a viral infection that can be transmitted through sexual contact. There are two types of herpes: herpes simplex virus type 1 (HSV-1) and herpes simplex virus type 2 (HSV-2).",
+        "signs": "Signs of herpes may include painful blisters or sores on or around the genitals, mouth, or rectum.",
+        "symptoms": "Some people with herpes may not experience any symptoms, but if left untreated, it can lead to recurring outbreaks of painful blisters or sores.",
+        "preventions": "Using condoms during sexual activity can greatly reduce your risk of contracting herpes. However, since the virus can be transmitted through skin-to-skin contact, condoms may not provide complete protection.",
+        "medications": "There is no cure for herpes, but antiviral medications like acyclovir, valacyclovir, and famciclovir can help reduce the frequency and severity of outbreaks."
+      },
+      {
+        "name": "Human papillomavirus (HPV)",
+        "category": "Sexually transmitted",
+        "description": "HPV is a viral infection that can be transmitted through sexual contact. There are many types of HPV, some of which can cause genital warts and others that can lead to cervical cancer in women.",
+        "signs": "Signs of HPV may include genital warts, which can be small or large, flat or raised, or cauliflower-shaped.",
+        "symptoms": "Some people with HPV may not experience any symptoms, but if left untreated, it can lead to serious health problems like cancer.",
+        "preventions": "Using condoms during sexual activity can greatly reduce your risk of contracting HPV, but it's not 100% effective. The HPV vaccine can also help prevent infection with certain types of HPV.",
+        "medications": "There is no cure for HPV, but treatment can help manage symptoms like genital warts. Regular cervical cancer screenings are important for women to detect abnormal cells caused by HPV."
+      },
+      {
+        "name": "Hepatitis B",
+        "category": "Sexually transmitted",
+        "description": "Hepatitis B is a viral infection that can be transmitted through sexual contact, sharing needles, or from mother to child during childbirth.",
+        "signs": "Signs of hepatitis B may include fever, fatigue, abdominal pain, and jaundice (yellowing of the skin and eyes).",
+        "symptoms": "Some people with hepatitis B may not experience any symptoms, but if left untreated, it can lead to liver damage, cirrhosis, and liver cancer.",
+        "preventions": "Using condoms during sexual activity can greatly reduce your risk of contracting hepatitis B. The hepatitis B vaccine can also help prevent infection.",
+        "medications": "Antiviral medications can help manage hepatitis B and reduce the risk of liver damage. In some cases, a liver transplant may be necessary."
+      },
+      {
+        "name": "HIV/AIDS",
+        "category": "Sexually transmitted",
+        "description": "HIV (human immunodeficiency virus) is a virus that attacks the immune system, and can lead to AIDS (acquired immunodeficiency syndrome) if left untreated.",
+        "signs": "Early signs of HIV infection can include flu-like symptoms such as fever, headache, and fatigue. In later stages, symptoms may include weight loss, night sweats, and swollen lymph nodes.",
+        "symptoms": "HIV can be present in the body for years without causing any symptoms, which is why it's important to get tested regularly if you are sexually active.",
+        "preventions": "Using condoms during sexual activity can greatly reduce your risk of contracting HIV. Other prevention methods include pre-exposure prophylaxis (PrEP) and post-exposure prophylaxis (PEP).",
+        "medications": "There is no cure for HIV, but antiretro."
+      },
+
+      {
+        "name": "Shigellosis",
+        "category": "Sexually transmitted",
+        "description": "Shigellosis, also known as bacillary dysentery, is a bacterial infection that affects the digestive system. It is caused by a group of bacteria called Shigella.",
+        "signs": "Symptoms of shigellosis may include diarrhea, abdominal pain and cramps, fever, and nausea.",
+        "symptoms": "The symptoms of shigellosis can vary from person to person. Some people may only experience mild diarrhea, while others may have severe symptoms such as bloody diarrhea, dehydration, and weight loss.",
+        "preventions": "Washing your hands regularly, avoiding contaminated food and water, and practicing safe sex can help prevent shigellosis.",
+        "medications": "Antibiotics are often prescribed to treat shigellosis. In some cases, the infection may resolve on its own without treatment."
+      },
+      {
+        "name": "Chancroid",
+        "category": "Sexually transmitted",
+        "description": "Chancroid is a sexually transmitted infection (STI) that is caused by the bacterium Haemophilus ducreyi. It is most common in developing countries, but it can occur anywhere.",
+        "signs": "Symptoms of chancroid may include painful, open sores or ulcers on the genitals or in the groin area. The sores may be accompanied by swelling and tenderness.",
+        "symptoms": "Chancroid can cause painful, open sores or ulcers on the genitals or in the groin area. The sores may bleed or ooze fluid, and they can be accompanied by swelling and tenderness. In some cases, chancroid can cause fever and swollen lymph nodes.",
+        "preventions": "Practicing safe sex, using condoms during sexual activity, and avoiding sexual contact with someone who has an active infection can help prevent chancroid.",
+        "medications": "Antibiotics are often prescribed to treat chancroid. The infection may also be treated with pain relievers and warm compresses."
+      },
+      {
+        "name": "Donovanosis",
+        "category": "Sexually transmitted",
+        "description": "Donovanosis, also known as granuloma inguinale, is a bacterial infection that is typically spread through sexual contact. It is caused by the bacterium Klebsiella granulomatis.",
+        "signs": "Symptoms of donovanosis may include small, painless bumps or ulcers on the genitals, groin, or anal area. The bumps may grow in size and become more numerous over time.",
+        "symptoms": "Donovanosis can cause small, painless bumps or ulcers on the genitals, groin, or anal area. The bumps may grow in size and become more numerous over time. In some cases, donovanosis can cause fever, chills, and swollen lymph nodes.",
+        "preventions": "Practicing safe sex and using condoms during sexual activity can help prevent donovanosis. Avoiding sexual contact with someone who has an active infection is also important.",
+        "medications": "Antibiotics are often prescribed to treat donovanosis. The infection may also be treated with topical medications and wound care."
+      },
+
+      {
+        "name": "Scabies",
+        "category": "Sexually transmitted",
+        "description": "Scabies is a contagious skin condition caused by a mite that burrows into the skin and lays eggs. The infestation can cause intense itching and a rash, which can become infected if scratched.",
+        "signs": "Intense itching, especially at night,Pimple-like bumps,Tracks or burrows in the skin",
+        "symptoms": "Intense itching, especially at night,Pimple-like bumps,Tracks or burrows in the skin",
+        "preventions": "Avoid close contact with infected people, Wash bedding, clothing, and towels in hot water,Vacuum carpets and furniture regularly",
+        "medications": "Permethrin cream,Ivermectin,Crotamiton cream"
+      },
+      {
+        "name": "Trichomoniasis",
+        "category": "Sexually transmitted",
+        "description": "Trichomoniasis is a common sexually transmitted infection caused by a protozoan parasite. Many people with trichomoniasis have no symptoms, but it can cause discharge, itching, and burning in the genital area.",
+        "signs": "Vaginal discharge,Genital itching,Pain during sex",
+        "symptoms": "Vaginal discharge,Genital itching,Pain during sex",
+        "preventions": "Use condoms during sex,Limit the number of sexual partners,Get regular STD testing",
+        "medications": "Metronidazole,Tinidazole"
+      },
+      {
+        "name": "Genital herpes",
+        "category": "Sexually transmitted",
+        "description": "Genital herpes is a common sexually transmitted infection caused by the herpes simplex virus (HSV). It can cause painful blisters and sores on or around the genitals, as well as flu-like symptoms.",
+        "signs": "Painful blisters or sores on or around the genitals,Flu-like symptoms, such as fever and swollen lymph nodes,Pain or burning during urination",
+        "symptoms": "Painful blisters or sores on or around the genitals,Flu-like symptoms, such as fever and swollen lymph nodes,Pain or burning during urination",
+        "preventions": "Use condoms during sex,Limit the number of sexual partners,Avoid sexual contact during outbreaks",
+        "medications": "Antiviral medications, such as acyclovir, valacyclovir, and famciclovir"
+      }
+    ]
+  }
+]

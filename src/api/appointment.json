@@ -1,0 +1,102 @@
+[
+  {
+    "name": "HealthAdvocate",
+    "description": "Offers a wide range of health and wellness services, including assistance with navigating the healthcare system, personalized health coaching, and chronic condition management.",
+    "url": "https://www.healthadvocate.com/"
+  },
+  {
+    "name": "Johnson & Johnson Health and Wellness Solutions",
+    "description": "Provides a suite of digital health tools and resources for employers, healthcare providers, and individuals.",
+    "url": "https://www.jnj.com/health-and-wellness"
+  },
+  {
+    "name": "Cerner Health Services",
+    "description": "Offers a variety of health and wellness solutions for employers, including employee health assessments, wellness coaching, and disease management programs.",
+    "url": "https://www.cerner.com/solutions/health-services"
+  },
+  {
+    "name": "Welltok",
+    "description": "Offers a comprehensive suite of health and wellness solutions for individuals, employers, and health plans, including personalized health coaching, wellness challenges, and digital health tracking tools.",
+    "url": "https://www.welltok.com/"
+  },
+  {
+    "name": "Mercer Health & Benefits",
+    "description": "Provides a range of health and benefits consulting services, including health plan design, pharmacy benefit management, and health and wellness program implementation.",
+    "url": "https://www.mercer.com/what-we-do/health-and-benefits.html"
+  },
+  {
+    "name": "Optum",
+    "description": "Offers a variety of health and wellness solutions for employers and health plans, including health coaching, wellness programs, and population health management.",
+    "url": "https://www.optum.com/solutions/employer/health-and-wellness.html"
+  },
+  {
+    "name": "The Advisory Board Company",
+    "description": "Provides healthcare consulting services to hospitals and health systems, including strategic planning, revenue cycle management, and clinical performance improvement.",
+    "url": "https://www.advisory.com/services"
+  },
+  {
+    "name": "EY Health",
+    "description": "Offers a range of consulting services for healthcare providers and payers, including healthcare strategy, digital transformation, and regulatory compliance.",
+    "url": "https://www.ey.com/en_us/health/health-care"
+  },
+  {
+    "name": "PwC Health Industries",
+    "description": "Provides a wide range of healthcare consulting services, including healthcare strategy, digital transformation, and regulatory compliance.",
+    "url": "https://www.pwc.com/us/en/industries/health-industries.html"
+  },
+  {
+    "name": "Deloitte Health",
+    "description": "Offers a range of healthcare consulting services, including healthcare strategy, clinical transformation, and health system integration.",
+    "url": "https://www2.deloitte.com/us/en/pages/life-sciences-and-health-care/solutions/health-care.html"
+  },
+  {
+    "name": "WebMD",
+    "description": "WebMD provides trusted health information, news, and expert advice to consumers.",
+    "url": "https://www.webmd.com/"
+  },
+  {
+    "name": "Healthline",
+    "url": "https://www.healthline.com/",
+    "description": "Healthline offers medically reviewed articles, news, and health information for consumers."
+  },
+  {
+    "name": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/",
+    "description": "The Mayo Clinic is a nonprofit academic medical center that provides expert care and research in the field of medicine."
+  },
+  {
+    "name": "Everyday Health",
+    "url": "https://www.everydayhealth.com/",
+    "description": "Everyday Health is a resource for consumers seeking information on health and wellness topics."
+  },
+  {
+    "name": "MedicineNet",
+    "url": "https://www.medicinenet.com/",
+    "description": "MedicineNet provides easy-to-read, in-depth medical information for consumers."
+  },
+  {
+    "name": "Verywell Health",
+    "url": "https://www.verywellhealth.com/",
+    "description": "Verywell Health provides comprehensive health information and news for consumers."
+  },
+  {
+    "name": "National Institutes of Health",
+    "url": "https://www.nih.gov/",
+    "description": "The National Institutes of Health (NIH) is the nation's medical research agency and conducts scientific research on health and disease."
+  },
+  {
+    "name": "Cleveland Clinic",
+    "url": "https://my.clevelandclinic.org/",
+    "description": "The Cleveland Clinic is a nonprofit multispecialty academic medical center that provides patient care, research, and education."
+  },
+  {
+    "name": "Harvard Health",
+    "url": "https://www.health.harvard.edu/",
+    "description": "Harvard Health provides health information and advice from experts at Harvard Medical School."
+  },
+  {
+    "name": "Johns Hopkins Medicine",
+    "url": "https://www.hopkinsmedicine.org/",
+    "description": "Johns Hopkins Medicine is a nonprofit academic medical center that provides patient care, research, and education."
+  }
+]
